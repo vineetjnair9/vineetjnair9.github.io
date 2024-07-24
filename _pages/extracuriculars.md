@@ -10,7 +10,7 @@ author_profile: true
 Teaching
 ======
 * **November 2023-January 2024**: Lead Instructor, MIT International Science & Technology Initiatives ([MISTI](https://misti.mit.edu/))
-  * Led a team of 9 other MIT students, developed materials, and taught an intensive course on climate change and renewable energy for high school students in South Africa & Botswana. You can find the curriculum [here](https://docs.google.com/spreadsheets/d/1SgWZA_h8bypVS_hNUg9Vr6dcT2VweI0TWFUmG1-WihY/edit?usp=sharing).
+  * Led a team of 9 other MIT students, developed materials, and taught an intensive course on climate change and renewable energy for high school students in South Africa & Botswana. You can find the curriculum [here](https://docs.google.com/spreadsheets/d/1CGn-83AdD4oRz-283Qc0gYW1tUuDhkQ11S0UXpITNHE/edit?usp=sharing).
 * **November 2022-January 2023**: Data Science & Machine Learning Instructor, MIT International Science & Technology Initiatives (MISTI)
   * Organized a 3-week long machine learning/entrepreneurship boot camp for students at Universidad Tecnológica del Uruguay as part of MIT's Global Startup Labs.
   * Developed and taught interactive lessons (lectures, live coding exercise notebooks) on neural networks, advanced deep learning methods, model validation, hyperparameter tuning, and time-series forecasting.
