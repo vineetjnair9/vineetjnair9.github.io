@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- You can find a more detailed CV [here](https://github.com/vineetjnair9/vineetjnair9.github.io/blob/master/files/Vineet_Nair_CV.pdf). -->
+
+<embed src="{{ site.baseurl }}/files/Vineet_Nair_CV.pdf" width="600" height="200" type='application/pdf'><br/>
+
 Education
 ======
 * Ph.D in Computational Science & Engineering, Massachusetts Institute of Technology, 2025 (expected)
