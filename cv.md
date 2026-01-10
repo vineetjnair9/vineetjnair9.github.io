@@ -20,8 +20,8 @@ permalink: /cv/
 
 ## Quick Links
 
-- **Email**: jvineet9@mit.edu
-- **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
-- **LinkedIn**: [nairvineet9](https://linkedin.com/in/nairvineet9)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en)
-- **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334)
+- **Email**: jvineet9@mit.edu, vineetjnair9@gmail.com
+- **LinkedIn**: [nairvineet9](https://linkedin.com/in/nairvineet9){:target="_blank"}
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en){:target="_blank"}
+- **GitHub**: [vineetjnair9](https://github.com/vineetjnair9){:target="_blank"}
+- **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334){:target="_blank"}
