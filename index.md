@@ -9,9 +9,13 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
 
 ## Education
 
-- **Massachusetts Institute of Technology**: MS in Computational Science & Engineering (2021), PhD in Computational Science & Engineering (2025)
-- **University of Cambridge**: MPhil in Energy Technologies (Gates Cambridge Scholar)
-- **University of California, Berkeley**: BS in Mechanical Engineering, BA in Economics, Minors in Electrical Engineering & Computer Sciences, Human-Centered Design, Entrepreneurship & Technology.
+- **Massachusetts Institute of Technology**:
+  - MS in Computational Science & Engineering (2021)
+  - PhD in Computational Science & Engineering (2025)
+- **University of Cambridge**: MPhil in Energy Technologies - Gates Cambridge Scholar (2019)
+- **University of California, Berkeley**:
+  - BS in Mechanical Engineering, BA in Economics (2018)
+  - Minors in Electrical Engineering & Computer Sciences, Human-Centered Design, Entrepreneurship & Technology
 
 ## Contact
 
