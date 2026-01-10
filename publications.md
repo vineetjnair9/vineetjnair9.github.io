@@ -12,6 +12,7 @@ permalink: /publications/
 Authors: **Vineet J Nair**, Priyank Srivastava, Venkatesh Venkataramanan, Partha S Sarker, Anurag Srivastava, Laurentiu D Marinovici, Jun Zha, Christopher Irwin, Prateek Mittal, John Williams, Anuradha M Annaswamy  
 *Proceedings of the National Academy of Sciences*, 122(8), e2413967121, 2025  
 [Link](https://www.pnas.org/doi/10.1073/pnas.2413967121) | [Paper PDF](/papers/PNAS_2025_with_appendices.pdf)
+Press coverage: [MIT News](https://news.mit.edu/2025/rooftop-panels-ev-chargers-smart-thermostats-could-chip-boost-power-grid-resilience-0220), [Grist](https://grist.org/energy/utility-pay-green-grid-ev-electricity/)
 
 **Optimal Transmission Switching and Grid Reconfiguration for Transmission Systems via Convex Relaxations**  
 Authors: **Vineet Jagadeesan Nair**  
