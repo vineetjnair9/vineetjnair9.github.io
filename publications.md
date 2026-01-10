@@ -21,7 +21,7 @@ Authors: **Vineet Jagadeesan Nair**
 **Voltage regulation in distribution grids: A survey**  
 Authors: Priyank Srivastava, Rabab Haider, **Vineet J Nair**, Venkatesh Venkataramanan, Anuradha M Annaswamy, Anurag K Srivastava  
 *Annual Reviews in Control*, 55, 165-181, 2023  
-[Link](https://doi.org/10.1016/j.arcontrol.2023.03.004) | [Paper PDF](/papers/srivastava2023-voltage-regulation-survey.pdf)
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000123) | [Paper PDF](/papers/srivastava2023-voltage-regulation-survey.pdf)
 
 
 
@@ -44,21 +44,21 @@ Authors: **Vineet Jagadeesan Nair**
 **Enhancing power grid resilience to cyber-physical attacks using distributed retail electricity markets**  
 Authors: **Vineet Jagadeesan Nair**, Priyank Srivastava, Anuradha Annaswamy  
 *2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems (ICCPS)*, 2024  
-[Link](https://doi.org/10.1109/ICCPS61052.2024.00011) | [Paper PDF](/papers/nair2024-iccps-resilience.pdf)
+[Link](https://dl.acm.org/doi/abs/10.1109/ICCPS61052.2024.00012) | [Paper PDF](/papers/nair2024-iccps-resilience.pdf)
 
 
 
 **Federated learning forecasting for strengthening grid reliability and enabling markets for resilience**  
 Authors: Lucas Pereira, **Vineet Nair**, Bruno Dias, Hugo Morais, Anuradha Annaswamy  
 *IET Conference Proceedings: : International Conference on Electricity Distribution (CIRED) Europe Workshop*, 2024(27), 246-250, 2024  
-[Link](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.3525) | [Paper PDF](/papers/pereira2024-iet-federated-learning-markets.pdf)
+[Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.2608) | [Paper PDF](/papers/pereira2024-iet-federated-learning-markets.pdf)
 
 
 
 **Accurate federated learning with uncertainty quantification for distributed energy resource forecasting applied to smart grids planning and operation: the ALAMO vision**  
 Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Morais  
 *IET Conference Proceedings: International Conference on Electricity Distribution (CIRED) USA Workshop*, 2024(5), 1123-1126, 2024  
-[Link](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2830) | [Paper PDF](/papers/pereira2024-iet-alamo.pdf)
+[Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.1930) | [Paper PDF](/papers/pereira2024-iet-alamo.pdf)
 
 
 
