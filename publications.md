@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+*For the most up-to-date list with citation metrics, please see my [**Google Scholar profile**](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en).*
+
 # Journal Articles
 
 **Resilience of the electric grid through trustable IoT-coordinated assets**  
@@ -65,7 +67,7 @@ Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Mo
 **A game-theoretic, market-based approach to extract flexibility from distributed energy resources**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
 *5th IFAC Workshop on Cyber-Physical Human Systems (CPHS)*, 2024  
-[Link](https://doi.org/10.1016/j.ifacol.2024.07.209) | [Paper PDF](/papers/nair2024-ifac-game-theory.pdf)
+[Link](https://www.sciencedirect.com/science/article/pii/S2405896325001740) | [Paper PDF](/papers/nair2024-ifac-game-theory.pdf)
 
 
 
@@ -86,7 +88,7 @@ Authors: **Vineet Jagadeesan Nair**, Lucas Pereira
 **Impacts of dynamic line ratings on the ERCOT transmission system**  
 Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun  
 *2022 North American Power Symposium (NAPS)*, 1-6, 2022  
-[Link](https://doi.org/10.1109/NAPS56150.2022.10012176) | [Paper PDF](/papers/lee2022-naps-dynamic-line-ratings.pdf)
+[Link](https://ieeexplore.ieee.org/abstract/document/10012241/) | [Paper PDF](/papers/lee2022-naps-dynamic-line-ratings.pdf)
 
 
 
@@ -96,7 +98,7 @@ Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun
 Authors: Anuradha M Annaswamy, **Vineet Jagadeesan Nair**  
 *Cyber-Physical-Human Systems: Fundamentals and Applications*, 25-41, 2023  
 John Wiley & Sons, Inc.  
-[Book](https://doi.org/10.1002/9781119857433.ch2) | [Paper PDF](/papers/annaswamy2023-book-chapter.pdf)
+[Link](https://doi.org/10.1002/9781119857433.ch2) | [Chapter PDF](/papers/annaswamy2023-book-chapter.pdf)
 
 
 
@@ -105,49 +107,37 @@ John Wiley & Sons, Inc.
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
 PhD Thesis, Massachusetts Institute of Technology, 2025  
-[Paper PDF](/papers/nair2025-phd-thesis.pdf)
+[Link](https://doi.org/10.1002/9781119857433.ch2) | [Thesis PDF](/papers/nair2025-phd-thesis.pdf)
 
 
 
 **Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
 **Vineet Jagadeesan Nair**  
 Master's Thesis, University of Cambridge, 2022  
-[Paper PDF](/papers/nair2022-cambridge-thesis.pdf)
+[Paper PDF](/papers/nair2022-cambridge-thesis.pdf) | [Thesis PDF](/papers/nair2022-cambridge-thesis.pdf)
 
 
 
 **Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand**  
 **Vineet Jagadeesan Nair**  
 Master's Thesis, Massachusetts Institute of Technology, 2021  
-[Paper PDF](/papers/nair2021-mit-thesis.pdf)
+[Link]() | [Thesis PDF](/papers/nair2021-mit-thesis.pdf)
 
 
 
 ## Preprints & Technical Reports
 
-**Resilience of the Electric Grid through Trustable IoT-Coordinated Assets (Extended version)**  
-Authors: **Vineet J Nair**, Venkatesh Venkataramanan, Priyank Srivastava, Partha S Sarker, Anurag Srivastava, Laurentiu D Marinovici, Jun Zha, Christopher Irwin, Prateek Mittal, John Williams, Anuradha M Annaswamy  
-*arXiv preprint arXiv:2406.14861*, 2024  
-[Link](https://arxiv.org/abs/2406.14861) | [Paper PDF](/papers/nair2024-arxiv-resilience-extended.pdf)
-
-
-
 **EUREICA: Efficient UltRa Endpoint IoT-enabled Coordinated Architecture**  
 Authors: Anuradha Annaswamy, **Vineet Jagadeesan Nair**  
 Technical Report, National Energy Technology Laboratory (US Department of Energy), 2025  
-[Paper PDF](/papers/annaswamy2025-eureica-report.pdf)
-
-
+[Link](https://arxiv.org/abs/2406.14861) | [Report PDF](/papers/annaswamy2025-eureica-report.pdf)
 
 **Sensitivity Analysis of Passenger Behavioral Model for Dynamic Pricing of Shared Mobility on Demand**  
 Authors: **Vineet Jagadeesan Nair**, Yue Guan, Anuradha M Annaswamy, H Eric Tseng, Baljeet Singh  
 *arXiv preprint arXiv:2104.08985*, 2021  
 [Link](https://arxiv.org/abs/2104.08985) | [Paper PDF](/papers/nair2021-arxiv-mobility-pricing.pdf)
 
-
 **Electric vehicle charge scheduling on highway networks from an aggregate cost perspective**  
 Authors: Sean Anderson, **Vineet J Nair**  
 *arXiv preprint arXiv:1901.03017*, 2019  
 [Link](https://arxiv.org/abs/1901.03017) | [Paper PDF](/papers/anderson2019-arxiv-ev-charging.pdf)
-
-*For the most up-to-date list with citation metrics, please see my [Google Scholar profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en).*
