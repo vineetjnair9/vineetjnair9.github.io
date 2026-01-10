@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-*For the most up-to-date list with citation metrics, please see my [**Google Scholar profile**](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en).*
+*For the most up-to-date list with citation metrics, please see my [**Google Scholar profile**](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en){:target="_blank"}.*
 
 # Journal Articles
 
