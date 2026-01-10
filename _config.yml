@@ -37,7 +37,6 @@ author:
 
 # Header pages - these will appear in the navigation
 header_pages:
-  - about.md
   - publications.md
   - cv.md
 
