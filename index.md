@@ -18,9 +18,9 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
 # Contact
 
 - **Email**: jvineet9@mit.edu, vineetjnair9@gmail.com
-- **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
 - **LinkedIn**: [nairvineet9](https://linkedin.com/in/nairvineet9)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en)
+- **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
 - **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334)
 
 For more information, see my [publications](publications.md) or download my [CV](cv.md).
