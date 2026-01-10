@@ -20,3 +20,4 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
 - **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
 - **LinkedIn**: [nairvineet9](https://linkedin.com/in/nairvineet9)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en)
+- **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334)
