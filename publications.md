@@ -28,7 +28,7 @@ Authors: Priyank Srivastava, Rabab Haider, **Vineet J Nair**, Venkatesh Venkatar
 **A hierarchical local electricity market for a DER-rich grid edge**  
 Authors: **Vineet Jagadeesan Nair**, Venkatesh Venkataramanan, Rabab Haider, Anuradha M Annaswamy  
 *IEEE Transactions on Smart Grid*, 14(2), 1353-1366, 2022  
-[Link](https://doi.org/10.1109/TSG.2022.3198890) | [Paper PDF](/papers/nair2022-tsg-hierarchical-market.pdf)
+[Link](https://ieeexplore.ieee.org/abstract/document/9774996) | [Paper PDF](/papers/nair2022-tsg-hierarchical-market.pdf)
 
 
 
