@@ -3,11 +3,9 @@ layout: home
 title: Home
 ---
 
-# About Me
-
 Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate change and enable decarbonization, with a focus on power and energy systems problems. I have previously also worked on problems in other areas like transportation and heavy industry. I recently graduated with a PhD in Computational Science & Engineering from the Massachusetts Institute of Technology (MIT). I am broadly interested in all areas related to climate tech and sustainability, and I'm passionate about conducting novel research as well as exploring its practical applications. I leverage tools from various domains, including optimization, machine learning & artificial intelligence, numerical methods, game theory, statistics, large-scale simulation, and high-performance computing. I also have extensive industry experience, through research internships at Google X, Shell, Siemens, Tata Motors, and Avangrid.
 
-## Education
+# Education
 
 - **Massachusetts Institute of Technology**:
   - MS in Computational Science & Engineering (2021)
@@ -17,7 +15,7 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
   - BS in Mechanical Engineering, BA in Economics (2018)
   - Minors in Electrical Engineering & Computer Sciences, Human-Centered Design, Entrepreneurship & Technology
 
-## Contact
+# Contact
 
 - **Email**: jvineet9@mit.edu, vineetjnair9@gmail.com
 - **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
