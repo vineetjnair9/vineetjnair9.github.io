@@ -20,15 +20,15 @@ minima:
     - platform: github
       user_url: "https://github.com/vineetjnair9"
       title: GitHub
-    - platform: twitter
-      user_url: "https://twitter.com/vineetjnair9"
-      title: Twitter
     - platform: linkedin
       user_url: "https://linkedin.com/in/nairvineet9"
       title: LinkedIn
     - platform: google_scholar
       user_url: "https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en"
       title: Google Scholar
+    - platform: orcid
+      user_url: "[0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334)"
+      title: ORCID
 
 # Author information
 author:
