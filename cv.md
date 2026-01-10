@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae (Resume)
 permalink: /cv/
 ---
-
-# Curriculum Vitae
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="/assets/cv.pdf" download class="btn" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">
