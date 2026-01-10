@@ -107,30 +107,24 @@ John Wiley & Sons, Inc.
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
 PhD Thesis, Massachusetts Institute of Technology, 2025  
-[Link](https://doi.org/10.1002/9781119857433.ch2) | [Thesis PDF](/papers/nair2025-phd-thesis.pdf)
-
-
-
-**Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
-**Vineet Jagadeesan Nair**  
-Master's Thesis, University of Cambridge, 2022  
-[Paper PDF](/papers/nair2022-cambridge-thesis.pdf) | [Thesis PDF](/papers/nair2022-cambridge-thesis.pdf)
-
-
+[Link](https://dspace.mit.edu/handle/1721.1/163417) | [Thesis PDF](/papers/nair2025-phd-thesis.pdf)
 
 **Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand**  
 **Vineet Jagadeesan Nair**  
 Master's Thesis, Massachusetts Institute of Technology, 2021  
-[Link]() | [Thesis PDF](/papers/nair2021-mit-thesis.pdf)
+[Link](https://dspace.mit.edu/handle/1721.1/130826) | [Thesis PDF](/papers/nair2021-mit-thesis.pdf)
 
-
+**Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
+**Vineet Jagadeesan Nair**  
+Master's Thesis, University of Cambridge, 2019 
+[Thesis PDF](/papers/nair2022-cambridge-thesis.pdf)
 
 ## Preprints & Technical Reports
 
 **EUREICA: Efficient UltRa Endpoint IoT-enabled Coordinated Architecture**  
 Authors: Anuradha Annaswamy, **Vineet Jagadeesan Nair**  
 Technical Report, National Energy Technology Laboratory (US Department of Energy), 2025  
-[Link](https://arxiv.org/abs/2406.14861) | [Report PDF](/papers/annaswamy2025-eureica-report.pdf)
+[Link](https://www.osti.gov/biblio/2575017) | [Report PDF](/papers/annaswamy2025-eureica-report.pdf)
 
 **Sensitivity Analysis of Passenger Behavioral Model for Dynamic Pricing of Shared Mobility on Demand**  
 Authors: **Vineet Jagadeesan Nair**, Yue Guan, Anuradha M Annaswamy, H Eric Tseng, Baljeet Singh  
