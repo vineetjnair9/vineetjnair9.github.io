@@ -116,8 +116,7 @@ Master's Thesis, Massachusetts Institute of Technology, 2021
 
 **Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
 **Vineet Jagadeesan Nair**  
-Master's Thesis, University of Cambridge, 2019 
-[Thesis PDF](/papers/MPhil_thesis.pdf)
+Master's Thesis, University of Cambridge, 2019 | [Thesis PDF](/papers/MPhil_thesis.pdf)
 
 ## Preprints & Technical Reports
 
