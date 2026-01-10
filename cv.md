@@ -1,51 +1,29 @@
 ---
-layout: page
-title: CV
-permalink: /cv/
----
+   layout: page
+   title: CV
+   permalink: /cv/
+   ---
 
-# Curriculum Vitae
+   # Curriculum Vitae
 
-## Education
+   <div style="text-align: center; margin-bottom: 20px;">
+     <a href="/assets/cv.pdf" download class="btn" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">
+       📄 Download CV (PDF)
+     </a>
+   </div>
 
-**Massachusetts Institute of Technology (MIT)**  
-PhD Candidate, Computational Science & Engineering  
-Cambridge, MA, USA
+   <div style="border: 1px solid #ddd; height: 800px; margin: 20px 0;">
+     <iframe src="/assets/cv.pdf" width="100%" height="100%" style="border: none;">
+       <p>Your browser does not support embedded PDFs. Please <a href="/assets/cv.pdf">download the PDF</a> to view it.</p>
+     </iframe>
+   </div>
 
-## Research Experience
+   ---
 
-<!-- Add your research positions here -->
+   ## Quick Links
 
-## Industry Experience
-
-<!-- Add your industry experience here:
-- Google X
-- Shell
-- Siemens
-- Tata Motors
--->
-
-## Skills
-
-**Programming**: Julia, Python, MATLAB, PowerShell
-
-**Optimization**: Mathematical programming, convex optimization, large-scale optimization
-
-**Modeling**: Energy systems, statistical modeling, machine learning
-
-**Software**: JuMP, Gurobi, ECOS, various ML frameworks
-
-## Publications
-
-See [Publications page](/publications/) for full list.
-
-## Contact
-
-**Email**: jvineet9@mit.edu  
-**Location**: Cambridge, MA, USA
-
----
-
-<!-- You can add a PDF download link here once you create a PDF version:
-[Download CV (PDF)](/assets/cv.pdf)
--->
+   - **Email**: jvineet9@mit.edu
+   - **GitHub**: [vineetjnair9](https://github.com/vineetjnair9)
+   - **LinkedIn**: [nairvineet9](https://linkedin.com/in/nairvineet9)
+   - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en)
+   - **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334)
