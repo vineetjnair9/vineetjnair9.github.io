@@ -24,7 +24,7 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
 - **[Avangrid](https://www.avangrid.com/)**: Developed a hybrid, federated software architecture & decision-making method to enhance cybersecurity & interoperability of a new distributed energy resources management system (DERMS) pilot.
 - **[Catalyst Investment Management](https://catalystpe.com/)**: Techno-economic analysis and optimization of sustainable AI data centers in the Middle East and North Africa (MENA) region.
 
-# Other Projects
+# Other Fun Projects
 - Explored commercial applications of my research with [Pillar VC](https://www.pillar.vc/) and the [National Science Foundation Innovation-Corps (NSF I-Corps)](https://www.nsf.gov/funding/initiatives/i-corps) program.
 - Developed and taught courses on Machine learning and Climate change in [Uruguay](https://docs.google.com/spreadsheets/d/19wKagnPu-uUMx6yiU7SB3bJzEh8B7nNuEa7QSYAnSag/edit?gid=191965965#gid=191965965), [Peru](https://sprouting.notion.site/MISTI-GTL-AI-Peru-2025-Program-Home-Participants-16208e5d878f80509031c12a9033e4d4), and [South Africa & Botswana](https://docs.google.com/spreadsheets/d/1CGn-83AdD4oRz-283Qc0gYW1tUuDhkQ11S0UXpITNHE/edit?gid=0#gid=0) through [MISTI](https://misti.mit.edu/types-programs/global-teaching-labs), while also mentoring local startups.
 - Led the largest student organization at MIT ([MIT Energy & Climate Club](https://mitec-club.org/)) as well as the largest student-run climate conference in the world ([MIT Energy Conference](https://www.mitenergyconference.org/))
