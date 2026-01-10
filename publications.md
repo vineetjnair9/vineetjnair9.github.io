@@ -50,14 +50,14 @@ Authors: **Vineet Jagadeesan Nair**, Priyank Srivastava, Anuradha Annaswamy
 
 **Federated learning forecasting for strengthening grid reliability and enabling markets for resilience**  
 Authors: Lucas Pereira, **Vineet Nair**, Bruno Dias, Hugo Morais, Anuradha Annaswamy  
-*IET Conference Proceedings*, 2024(27), 246-250, 2024  
+*IET Conference Proceedings: : International Conference on Electricity Distribution (CIRED) Europe Workshop*, 2024(27), 246-250, 2024  
 [Link](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.3525) | [Paper PDF](/papers/pereira2024-iet-federated-learning-markets.pdf)
 
 
 
 **Accurate federated learning with uncertainty quantification for distributed energy resource forecasting applied to smart grids planning and operation: the ALAMO vision**  
 Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Morais  
-*IET Conference Proceedings*, 2024(5), 1123-1126, 2024  
+*IET Conference Proceedings: International Conference on Electricity Distribution (CIRED) USA Workshop*, 2024(5), 1123-1126, 2024  
 [Link](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2830) | [Paper PDF](/papers/pereira2024-iet-alamo.pdf)
 
 
@@ -134,7 +134,7 @@ Authors: **Vineet J Nair**, Venkatesh Venkataramanan, Priyank Srivastava, Partha
 
 **EUREICA: Efficient UltRa Endpoint IoT-enabled Coordinated Architecture**  
 Authors: Anuradha Annaswamy, **Vineet Jagadeesan Nair**  
-Technical Report, National Energy Technology Laboratory & MIT, 2025  
+Technical Report, National Energy Technology Laboratory (US Department of Energy), 2025  
 [Paper PDF](/papers/annaswamy2025-eureica-report.pdf)
 
 
@@ -143,14 +143,6 @@ Technical Report, National Energy Technology Laboratory & MIT, 2025
 Authors: **Vineet Jagadeesan Nair**, Yue Guan, Anuradha M Annaswamy, H Eric Tseng, Baljeet Singh  
 *arXiv preprint arXiv:2104.08985*, 2021  
 [Link](https://arxiv.org/abs/2104.08985) | [Paper PDF](/papers/nair2021-arxiv-mobility-pricing.pdf)
-
-
-
-**New materials for improved Dye-Sensitized Solar Cells**  
-**Vineet Jagadeesan Nair**  
-PubPub, 2020  
-[Paper PDF](/papers/nair2020-dye-sensitized-solar.pdf)
-
 
 
 **Electric vehicle charge scheduling on highway networks from an aggregate cost perspective**  
