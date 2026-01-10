@@ -107,7 +107,7 @@ John Wiley & Sons, Inc.
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
 PhD Thesis, Massachusetts Institute of Technology, 2025  
-[Link](https://dspace.mit.edu/handle/1721.1/163417) | [Thesis PDF](/papers/PhD_thesis.pdf)
+[Link](https://dspace.mit.edu/handle/1721.1/163417) | [Thesis PDF](/papers/PHD_thesis.pdf)
 
 **Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand**  
 **Vineet Jagadeesan Nair**  
