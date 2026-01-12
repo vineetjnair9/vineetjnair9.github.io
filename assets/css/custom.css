@@ -1,0 +1,56 @@
+/* Custom styles for margin figures */
+
+/* Main content wrapper adjustment to make room for margin figures */
+.post-content,
+.page-content {
+  position: relative;
+}
+
+/* Margin figure styling */
+.margin-figure {
+  float: right;
+  clear: right;
+  width: 250px;
+  margin-right: -300px; /* Push into right margin */
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding-left: 20px;
+  position: relative;
+}
+
+.margin-figure img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.margin-figure figcaption {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.5em;
+  line-height: 1.4;
+}
+
+/* Responsive: hide margin figures on small screens */
+@media (max-width: 1200px) {
+  .margin-figure {
+    float: none;
+    margin-right: 0;
+    width: 100%;
+    max-width: 400px;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 1.5em;
+  }
+}
+
+/* Optional: Add more space to wrapper on large screens */
+@media (min-width: 1200px) {
+  .wrapper {
+    max-width: 900px; /* Give more room for content + margin figures */
+  }
+}
