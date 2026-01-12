@@ -4,11 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 
+<style>
+.pub-fig {
+  float: right;
+  width: 200px;        ← Change this ONE value
+  margin-left: 20px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+}
+</style>
+
 *For the most up-to-date list with citation metrics, please see my [**Google Scholar profile**](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en){:target="_blank"}.*
 
 # Journal Articles
 
-<img src="/papers/figures/PNAS_2025.png" style="float:right; width:200px; margin-left:20px;">
+<img src="/papers/figures/PNAS_2025.png" class="pub-fig">
 
 **Resilience of the electric grid through trustable IoT-coordinated assets**  
 Authors: **Vineet J Nair**, Priyank Srivastava, Venkatesh Venkataramanan, Partha S Sarker, Anurag Srivastava, Laurentiu D Marinovici, Jun Zha, Christopher Irwin, Prateek Mittal, John Williams, Anuradha M Annaswamy  
@@ -21,7 +31,7 @@ Authors: **Vineet Jagadeesan Nair**
 *Electricity*, 6(3), 37, 2025  
 [Link](https://doi.org/10.3390/electricity6030037){:target="_blank"} | [Paper PDF](/papers/Electricity_2025.pdf){:target="_blank"}
 
-
+<img src="/papers/figures/PNAS_2025.png" style="float:right; width:200px; margin-left:20px;">
 
 **Voltage regulation in distribution grids: A survey**  
 Authors: Priyank Srivastava, Rabab Haider, **Vineet J Nair**, Venkatesh Venkataramanan, Anuradha M Annaswamy, Anurag K Srivastava  
