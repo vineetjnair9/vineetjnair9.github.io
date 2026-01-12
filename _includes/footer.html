@@ -2,16 +2,12 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
+          <li class="p-name">{{ site.title | escape }}</li>
           {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
@@ -19,17 +15,20 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          <li><a href="https://github.com/vineetjnair9" target="_blank" rel="noopener noreferrer"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">GitHub</span></a></li>
-          <li><a href="https://linkedin.com/in/nairvineet9" target="_blank" rel="noopener noreferrer"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">LinkedIn</span></a></li>
-          <li><a href="https://orcid.org/0000-0002-5719-5334" target="_blank" rel="noopener noreferrer">
-            <svg class="svg-icon" viewBox="0 0 16 16"><path fill="#828282" d="M8 0C3.58 0 0 3.58 0 8c0 4.42 3.58 8 8 8 4.42 0 8-3.58 8-8 0-4.42-3.58-8-8-8zM5.5 3.5c.46 0 .83.37.83.83s-.37.83-.83.83-.83-.37-.83-.83.37-.83.83-.83zM6.67 12H4.33V6h2.34v6zm5.83 0H9.83c-.28 0-.5-.22-.5-.5V8.17c0-1.15-.93-2.08-2.08-2.08h-.08V4.75h.08c2.03 0 3.67 1.64 3.67 3.67v3.08c0 .28.22.5.5.5h1.08V12z"/></svg>
-            <span class="username">ORCID</span>
-          </a></li>
-          <li><a href="https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-            <svg class="svg-icon" viewBox="0 0 16 16"><path fill="#828282" d="M8 1L3 5v1h10V5L8 1zm-1 5v6h2V6H7zm-3 0v6h1V6H4zm8 0v6h1V6h-1z"/></svg>
-            <span class="username">Google Scholar</span>
-          </a></li>
+        <p><strong>Connect:</strong></p>
+        <ul class="social-media-list" style="list-style: none; padding: 0;">
+          <li style="margin-bottom: 5px;">
+            🔗 <a href="https://github.com/vineetjnair9" target="_blank" rel="noopener noreferrer">GitHub</a>
+          </li>
+          <li style="margin-bottom: 5px;">
+            💼 <a href="https://linkedin.com/in/nairvineet9" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          </li>
+          <li style="margin-bottom: 5px;">
+            🆔 <a href="https://orcid.org/0000-0002-5719-5334" target="_blank" rel="noopener noreferrer">ORCID</a>
+          </li>
+          <li style="margin-bottom: 5px;">
+            🎓 <a href="https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+          </li>
         </ul>
       </div>
 
@@ -37,5 +36,7 @@
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
+
   </div>
+
 </footer>
