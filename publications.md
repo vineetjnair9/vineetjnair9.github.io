@@ -25,13 +25,12 @@ Authors: **Vineet J Nair**, Priyank Srivastava, Venkatesh Venkataramanan, Partha
 *Proceedings of the National Academy of Sciences*, 122(8), e2413967121, 2025  
 [Link](https://www.pnas.org/doi/10.1073/pnas.2413967121){:target="_blank"} | [Main Paper PDF](/papers/PNAS_2025.pdf){:target="_blank"} | [Paper PDF with Appendix](/papers/PNAS_2025_with appendices.pdf){:target="_blank"} | Press coverage: [MIT News](https://news.mit.edu/2025/rooftop-panels-ev-chargers-smart-thermostats-could-chip-boost-power-grid-resilience-0220){:target="_blank"}, [Grist](https://grist.org/energy/utility-pay-green-grid-ev-electricity/){:target="_blank"}
 
+<img src="/papers/figures/Electricity_2025.png" class="pub-fig">
 
 **Optimal Transmission Switching and Grid Reconfiguration for Transmission Systems via Convex Relaxations**  
 Authors: **Vineet Jagadeesan Nair**  
 *Electricity*, 6(3), 37, 2025  
 [Link](https://doi.org/10.3390/electricity6030037){:target="_blank"} | [Paper PDF](/papers/Electricity_2025.pdf){:target="_blank"}
-
-<img src="/papers/figures/PNAS_2025.png" style="float:right; width:200px; margin-left:20px;">
 
 **Voltage regulation in distribution grids: A survey**  
 Authors: Priyank Srivastava, Rabab Haider, **Vineet J Nair**, Venkatesh Venkataramanan, Anuradha M Annaswamy, Anurag K Srivastava  
