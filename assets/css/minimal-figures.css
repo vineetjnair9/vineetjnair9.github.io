@@ -1,0 +1,12 @@
+/* Minimal margin figures - only for publications page */
+.margin-fig {
+  float: right;
+  width: 150px;
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+.margin-fig img {
+  width: 100%;
+  border: 1px solid #ddd;
+}
