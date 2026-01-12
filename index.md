@@ -39,4 +39,4 @@ Hi! I'm Vineet J Nair, and I develop computational methods to tackle climate cha
 - **GitHub**: [vineetjnair9](https://github.com/vineetjnair9){:target="_blank"}
 - **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334){:target="_blank"}
 
-For more information, see my [publications](publications.md){:target="_blank"} and my [CV](cv.md){:target="_blank"}.
+For more information, see my [**publications**](publications.md){:target="_blank"} and my [**resume/CV**](cv.md){:target="_blank"}.
