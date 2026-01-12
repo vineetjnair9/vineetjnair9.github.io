@@ -7,7 +7,7 @@ permalink: /publications/
 <style>
 .pub-fig {
   float: right;
-  width: 200px;        ← Change this ONE value
+  width: 200px;
   margin-left: 20px;
   margin-bottom: 15px;
   border: 1px solid #ddd;
