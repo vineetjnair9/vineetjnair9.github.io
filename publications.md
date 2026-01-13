@@ -46,7 +46,6 @@ Authors: **Vineet Jagadeesan Nair**, Venkatesh Venkataramanan, Rabab Haider, Anu
 *IEEE Transactions on Smart Grid*, 14(2), 1353-1366, 2022  
 [Link](https://ieeexplore.ieee.org/abstract/document/9774996){:target="_blank"} | [Paper PDF](/papers/TSG_2022.pdf){:target="_blank"}
 
-
 # Peer-reviewed Conference & Workshop Papers
 
 <img src="/papers/figures/NeurIPS_2024.png" class="pub-fig">
@@ -99,7 +98,7 @@ Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun
 *2022 North American Power Symposium (NAPS)*, 1-6, 2022  
 [Link](https://ieeexplore.ieee.org/abstract/document/10012241/){:target="_blank"} | [Paper PDF](/papers/NAPS_2022.pdf){:target="_blank"}
 
-## Book Chapters
+# Book Chapters
 
 <img src="/papers/figures/CPHS_book_2023.png" class="pub-fig">
 
@@ -109,7 +108,7 @@ Authors: Anuradha M Annaswamy, **Vineet Jagadeesan Nair**
 John Wiley & Sons, Inc.  
 [Link](https://doi.org/10.1002/9781119857433.ch2){:target="_blank"} | [Chapter PDF](/papers/CPHS_book_2023.pdf){:target="_blank"}
 
-## Theses
+# Theses
 
 <img src="/papers/figures/PHD_thesis_1.png" class="pub-fig" style="width: 250px;">
 
@@ -131,7 +130,7 @@ Master's Thesis, Massachusetts Institute of Technology, 2021
 **Vineet Jagadeesan Nair**  
 Master's Thesis, University of Cambridge, 2019 | [Thesis PDF](/papers/MPhil_thesis.pdf){:target="_blank"}
 
-## Preprints & Technical Reports
+# Preprints & Technical Reports
 
 **EUREICA: Efficient UltRa Endpoint IoT-enabled Coordinated Architecture**  
 Authors: Anuradha Annaswamy, **Vineet Jagadeesan Nair**  
@@ -151,3 +150,16 @@ Authors: **Vineet Jagadeesan Nair**, Yue Guan, Anuradha M Annaswamy, H Eric Tsen
 Authors: Sean Anderson, **Vineet J Nair**  
 *arXiv preprint arXiv:1901.03017*, 2019  
 [Link](https://arxiv.org/abs/1901.03017){:target="_blank"} | [Paper PDF](/papers/EV_2019.pdf){:target="_blank"}
+
+# Working Papers
+
+- _Vineet Nair_. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics”, Submitted, under review (2025).
+- _Vineet Nair_. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Submitted, under review (2025).
+- _Layla Araiinejad*, Vineet Nair*_, “The potential for nuclear fusion to sustainably & reliably power AI data centers.” In preparation (2025).
+- _Vineet Nair, Morteza Vahid Ghavidel, & Anuradha Annaswamy_. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and electrified load growth.” In preparation (2025).
+- _Vineet Nair, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy_, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things (2025).
+- _Danielle Knutson, Vineet Nair, & Anuradha Annaswamy_. “Understanding technical & socioeconomic drivers behind the spatial distribution & heterogeneity of distributed energy resources in California.” In preparation (2025).
+- _Peer Brigger, Vineet Nair, & Anuradha Annaswamy_. “Assessing the true value of battery storage under uncertainty in distribution grids.” In preparation (2025).
+- _Luca Hartmann, Vineet Nair, & Anuradha Annaswamy_, “Circuit-aware distributed model predictive voltage control for distribution grids.” In preparation for Control Engineering Practice (2025).
+- _Vineet Nair_. “Techno-economic analysis of low-carbon data centers in the Middle East & North Africa.” In preparation (2025).
+- _Vineet Nair, Michael Hetherington, & Stephen Brown_. “Data-driven approaches to reduce the emissions impacts of global LNG shipping.” In preparation (2025).
