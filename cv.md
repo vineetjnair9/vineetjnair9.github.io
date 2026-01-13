@@ -16,7 +16,7 @@ permalink: /cv/
   </iframe>
 </div>
 
----
+
 
 ## Quick Links
 
