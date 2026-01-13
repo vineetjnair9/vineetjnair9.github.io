@@ -8,7 +8,7 @@ permalink: /research_projects/
 
 My PhD thesis at MIT was titled “Coordination of Distributed Energy Resources (DERs) for a reliable, resilient, and affordable decarbonized grid. For this work, I was also awarded the Aarav Amar Bajpayee Memorial Prize for Graduate Student Societal Impact by the MIT Department of Mechanical Engineering, recognizing my research related to the health of the planet & global energy sustainability.
 
-<img src="/papers/figures/PhD_thesis_2.png" style="display:block; width:400px; margin:20px auto;">
+<img src="/papers/figures/PHD_thesis_2.png" style="display:block; width:400px; margin:20px auto;">
 
 In my PhD, I applied various tools, including distributed & decentralized optimization, game theory, market design & machine learning, to solve challenging planning & operational problems for the future power grid rich in renewables, battery storage & flexible demand (electric vehicles, heat pumps, data centers). I showed that coordinating flexible DERs can significantly lower network costs, losses & consumer electricity prices. I also applied our methods to improve efficiency, hosting capacity, power quality & grid resilience to cyber-physical attacks or outages. You can find my PhD thesis defense slides below:
 
