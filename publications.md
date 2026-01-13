@@ -32,12 +32,14 @@ Authors: **Vineet Jagadeesan Nair**
 *Electricity*, 6(3), 37, 2025  
 [Link](https://doi.org/10.3390/electricity6030037){:target="_blank"} | [Paper PDF](/papers/Electricity_2025.pdf){:target="_blank"}
 
+<img src="/papers/figures/ARC_2023.png" class="pub-fig">
+
 **Voltage regulation in distribution grids: A survey**  
 Authors: Priyank Srivastava, Rabab Haider, **Vineet J Nair**, Venkatesh Venkataramanan, Anuradha M Annaswamy, Anurag K Srivastava  
 *Annual Reviews in Control*, 55, 165-181, 2023  
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1367578823000123){:target="_blank"} | [Paper PDF](/papers/ARC_2023.pdf){:target="_blank"}
 
-
+<img src="/papers/figures/TSG_2022.png" class="pub-fig">
 
 **A hierarchical local electricity market for a DER-rich grid edge**  
 Authors: **Vineet Jagadeesan Nair**, Venkatesh Venkataramanan, Rabab Haider, Anuradha M Annaswamy  
@@ -45,48 +47,58 @@ Authors: **Vineet Jagadeesan Nair**, Venkatesh Venkataramanan, Rabab Haider, Anu
 [Link](https://ieeexplore.ieee.org/abstract/document/9774996){:target="_blank"} | [Paper PDF](/papers/TSG_2022.pdf){:target="_blank"}
 
 
-
 # Peer-reviewed Conference & Workshop Papers
+
+<img src="/papers/figures/NeurIPS_2024.png" class="pub-fig">
 
 **Enhanced physics-informed neural networks (PINNs) for high-order power grid dynamics**  
 Authors: **Vineet Jagadeesan Nair**  
 *NeurIPS 2024 Tackling Climate Change with Machine Learning Workshop*, 2024  
 [Link](https://www.climatechange.ai/papers/neurips2024/91){:target="_blank"} | [Paper PDF](/papers/NeurIPS_2024.pdf){:target="_blank"}
 
-
+<img src="/papers/figures/ICCPS_2024.png" class="pub-fig">
 
 **Enhancing power grid resilience to cyber-physical attacks using distributed retail electricity markets**  
 Authors: **Vineet Jagadeesan Nair**, Priyank Srivastava, Anuradha Annaswamy  
 *2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems (ICCPS)*, 2024  
 [Link](https://dl.acm.org/doi/abs/10.1109/ICCPS61052.2024.00012){:target="_blank"} | [Paper PDF](/papers/ICCPS_2024.pdf){:target="_blank"}
 
-
+<img src="/papers/figures/CIRED_EU_2024.png" class="pub-fig">
 
 **Federated learning forecasting for strengthening grid reliability and enabling markets for resilience**  
 Authors: Lucas Pereira, **Vineet Nair**, Bruno Dias, Hugo Morais, Anuradha Annaswamy  
 *IET Conference Proceedings: : International Conference on Electricity Distribution (CIRED) Europe Workshop*, 2024(27), 246-250, 2024  
 [Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.2608){:target="_blank"} | [Paper PDF](/papers/CIRED_EU_2024.pdf){:target="_blank"}
 
+<img src="/papers/figures/CIRED_USA_2024.png" class="pub-fig">
+
 **Accurate federated learning with uncertainty quantification for distributed energy resource forecasting applied to smart grids planning and operation: the ALAMO vision**  
 Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Morais  
 *IET Conference Proceedings: International Conference on Electricity Distribution (CIRED) USA Workshop*, 2024(5), 1123-1126, 2024  
 [Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.1930){:target="_blank"} | [Paper PDF](/papers/CIRED_USA_2024.pdf){:target="_blank"}
 
+<img src="/papers/figures/CPHS_2024.png" class="pub-fig">
 
 **A game-theoretic, market-based approach to extract flexibility from distributed energy resources**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
 *5th IFAC Workshop on Cyber-Physical Human Systems (CPHS)*, 2024  
 [Link](https://www.sciencedirect.com/science/article/pii/S2405896325001740){:target="_blank"} | [Paper PDF](/papers/CPHS_2024.pdf){:target="_blank"}
 
+<img src="/papers/figures/CCTA_2023.png" class="pub-fig">
+
 **Local retail electricity markets and pricing for distribution grid services**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
 *2023 IEEE Conference on Control Technology and Applications (CCTA)*, 32-39, 2023  
 [Link](https://doi.org/10.1109/CCTA54093.2023.10253334){:target="_blank"} | [Paper PDF](/papers/CCTA_2023.pdf){:target="_blank"}
 
+<img src="/papers/figures/NeurIPS_2022.png" class="pub-fig">
+
 **Improving accuracy and convergence of federated learning edge computing methods for generalized DER forecasting applications in power grids**  
 Authors: **Vineet Jagadeesan Nair**, Lucas Pereira  
 *NeurIPS 2022 Tackling Climate Change with Machine Learning Workshop*, 2022  
 [Link](https://www.climatechange.ai/papers/neurips2022/111){:target="_blank"} | [Paper PDF](/papers/NeurIPS_2022.pdf){:target="_blank"}
+
+<img src="/papers/figures/NAPS_2022.png" class="pub-fig">
 
 **Impacts of dynamic line ratings on the ERCOT transmission system**  
 Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun  
@@ -94,6 +106,8 @@ Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun
 [Link](https://ieeexplore.ieee.org/abstract/document/10012241/){:target="_blank"} | [Paper PDF](/papers/NAPS_2022.pdf){:target="_blank"}
 
 ## Book Chapters
+
+<img src="/papers/figures/CPHS_book_2023.png" class="pub-fig">
 
 **Human behavioral models using utility theory and prospect theory**  
 Authors: Anuradha M Annaswamy, **Vineet Jagadeesan Nair**  
@@ -103,15 +117,21 @@ John Wiley & Sons, Inc.
 
 ## Theses
 
+<img src="/papers/figures/PHD_thesis_1.png" class="pub-fig">
+
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
 PhD Thesis, Massachusetts Institute of Technology, 2025  
 [Link](https://dspace.mit.edu/handle/1721.1/163417){:target="_blank"} | [Thesis PDF](/papers/PHD_thesis.pdf){:target="_blank"}
 
+<img src="/papers/figures/CM_thesis_1.png" class="pub-fig">
+
 **Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand**  
 **Vineet Jagadeesan Nair**  
 Master's Thesis, Massachusetts Institute of Technology, 2021  
 [Link](https://dspace.mit.edu/handle/1721.1/130826){:target="_blank"} | [Thesis PDF](/papers/SM_thesis.pdf){:target="_blank"}
+
+<img src="/papers/figures/MPhil_thesis.png" class="pub-fig">
 
 **Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
 **Vineet Jagadeesan Nair**  
@@ -124,10 +144,14 @@ Authors: Anuradha Annaswamy, **Vineet Jagadeesan Nair**
 Technical Report, National Energy Technology Laboratory (US Department of Energy), 2025  
 [Link](https://www.osti.gov/biblio/2575017){:target="_blank"} | [Report PDF](/papers/EUREICA_report.pdf){:target="_blank"}
 
+<img src="/papers/figures/CPT_2019.png" class="pub-fig">
+
 **Sensitivity Analysis of Passenger Behavioral Model for Dynamic Pricing of Shared Mobility on Demand**  
 Authors: **Vineet Jagadeesan Nair**, Yue Guan, Anuradha M Annaswamy, H Eric Tseng, Baljeet Singh  
 *arXiv preprint arXiv:2104.08985*, 2021  
 [Link](https://arxiv.org/abs/2104.08985){:target="_blank"} | [Paper PDF](/papers/CPT_2019.pdf){:target="_blank"}
+
+<img src="/papers/figures/EV_2019.png" class="pub-fig">
 
 **Electric vehicle charge scheduling on highway networks from an aggregate cost perspective**  
 Authors: Sean Anderson, **Vineet J Nair**  
