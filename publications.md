@@ -73,14 +73,14 @@ Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Mo
 *IET Conference Proceedings: International Conference on Electricity Distribution (CIRED) USA Workshop*, 2024(5), 1123-1126, 2024  
 [Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.1930){:target="_blank"} | [Paper PDF](/papers/CIRED_USA_2024.pdf){:target="_blank"}
 
-<img src="/papers/figures/CPHS_2024.png" class="pub-fig">
+<img src="/papers/figures/CPHS_2024.png" class="pub-fig" style="width: 180px;">
 
 **A game-theoretic, market-based approach to extract flexibility from distributed energy resources**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
 *5th IFAC Workshop on Cyber-Physical Human Systems (CPHS)*, 2024  
 [Link](https://www.sciencedirect.com/science/article/pii/S2405896325001740){:target="_blank"} | [Paper PDF](/papers/CPHS_2024.pdf){:target="_blank"}
 
-<img src="/papers/figures/CCTA_2023.png" class="pub-fig">
+<img src="/papers/figures/CCTA_2023.png" class="pub-fig" style="width: 220px;">
 
 **Local retail electricity markets and pricing for distribution grid services**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
@@ -92,7 +92,7 @@ Authors: **Vineet Jagadeesan Nair**, Lucas Pereira
 *NeurIPS 2022 Tackling Climate Change with Machine Learning Workshop*, 2022  
 [Link](https://www.climatechange.ai/papers/neurips2022/111){:target="_blank"} | [Paper PDF](/papers/NeurIPS_2022.pdf){:target="_blank"}
 
-<img src="/papers/figures/NAPS_2022.png" class="pub-fig">
+<img src="/papers/figures/NAPS_2022.png" class="pub-fig" style="width: 220px;">
 
 **Impacts of dynamic line ratings on the ERCOT transmission system**  
 Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun  
@@ -111,7 +111,7 @@ John Wiley & Sons, Inc.
 
 ## Theses
 
-<img src="/papers/figures/PHD_thesis_1.png" class="pub-fig">
+<img src="/papers/figures/PHD_thesis_1.png" class="pub-fig" style="width: 220px;">
 
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
