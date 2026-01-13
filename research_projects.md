@@ -4,6 +4,8 @@ title: Research & Projects
 permalink: /research_projects/
 ---
 
+# PhD Research Overview
+
 My PhD thesis at MIT was titled “Coordination of Distributed Energy Resources (DERs) for a reliable, resilient, and affordable decarbonized grid. For this work, I was also awarded the Aarav Amar Bajpayee Memorial Prize for Graduate Student Societal Impact by the MIT Department of Mechanical Engineering, recognizing my research related to the health of the planet & global energy sustainability.
 
 <img src="/papers/figures/PhD_thesis_2.png" style="display:block; width:400px; margin:20px auto;">
@@ -22,7 +24,7 @@ In my PhD, I applied various tools, including distributed & decentralized optimi
 
 Beyond my thesis, I got the opportunity to work on side projects related to transmission grid modernization, physics-informed neural networks and neural differential equations, timeseries forecasting & blockchain-based frameworks for energy markets. I also enjoyed supervising & mentoring students on projects related to (i) distributed model predictive voltage control, (ii) accurate valuation of energy storage in markets under uncertainty, and (iii) understanding impacts of socioeconomic factors on the distribution of DERs in the United States. Please also see [**publications**](publications.md){:target="_blank"} corresponding to these projects.
 
-## Current Research Interests
+# Current Research Interests
 
 - **Physics-informed machine learning (ML)**: Physics-informed neural networks, neural operators, operator networks, neural differential equations, hybrid physical models, graph neural networks
 - **Optimization**: Convex, non-convex, & mixed-integer problems, particularly for applications in power grids, energy systems, transportation networks, and more. Using ML to accelerate optimization.
@@ -30,7 +32,7 @@ Beyond my thesis, I got the opportunity to work on side projects related to tran
 - **Numerical methods**: Developing accelerated & more accurate simulation methods for complex, nonlinear, and high-dimensional systems.
 - **Application areas**: Power & energy systems, transportation & mobility systems, batteries, industrial process control, smart cities, cyber-physical humain-in-the-loop system models, etc.
 
-## Other projects
+# Other Projects
 
 **Learning Dynamical Models through Data Science**
 
