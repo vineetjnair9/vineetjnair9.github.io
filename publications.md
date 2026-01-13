@@ -63,14 +63,10 @@ Authors: **Vineet Jagadeesan Nair**, Priyank Srivastava, Anuradha Annaswamy
 *2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems (ICCPS)*, 2024  
 [Link](https://dl.acm.org/doi/abs/10.1109/ICCPS61052.2024.00012){:target="_blank"} | [Paper PDF](/papers/ICCPS_2024.pdf){:target="_blank"}
 
-<img src="/papers/figures/CIRED_EU_2024.png" class="pub-fig">
-
 **Federated learning forecasting for strengthening grid reliability and enabling markets for resilience**  
 Authors: Lucas Pereira, **Vineet Nair**, Bruno Dias, Hugo Morais, Anuradha Annaswamy  
 *IET Conference Proceedings: : International Conference on Electricity Distribution (CIRED) Europe Workshop*, 2024(27), 246-250, 2024  
 [Link](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.2608){:target="_blank"} | [Paper PDF](/papers/CIRED_EU_2024.pdf){:target="_blank"}
-
-<img src="/papers/figures/CIRED_USA_2024.png" class="pub-fig">
 
 **Accurate federated learning with uncertainty quantification for distributed energy resource forecasting applied to smart grids planning and operation: the ALAMO vision**  
 Authors: Lucas Pereira, **Vineet Nair**, Anuradha Annaswamy, Bruno Dias, Hugo Morais  
@@ -90,8 +86,6 @@ Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
 *2023 IEEE Conference on Control Technology and Applications (CCTA)*, 32-39, 2023  
 [Link](https://doi.org/10.1109/CCTA54093.2023.10253334){:target="_blank"} | [Paper PDF](/papers/CCTA_2023.pdf){:target="_blank"}
-
-<img src="/papers/figures/NeurIPS_2022.png" class="pub-fig">
 
 **Improving accuracy and convergence of federated learning edge computing methods for generalized DER forecasting applications in power grids**  
 Authors: **Vineet Jagadeesan Nair**, Lucas Pereira  
@@ -124,7 +118,7 @@ John Wiley & Sons, Inc.
 PhD Thesis, Massachusetts Institute of Technology, 2025  
 [Link](https://dspace.mit.edu/handle/1721.1/163417){:target="_blank"} | [Thesis PDF](/papers/PHD_thesis.pdf){:target="_blank"}
 
-<img src="/papers/figures/CM_thesis_1.png" class="pub-fig">
+<img src="/papers/figures/SM_thesis_1.png" class="pub-fig">
 
 **Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand**  
 **Vineet Jagadeesan Nair**  
