@@ -8,11 +8,11 @@ permalink: /research_projects/
 
 My PhD thesis at MIT was titled “Coordination of Distributed Energy Resources (DERs) for a reliable, resilient, and affordable decarbonized grid. For this work, I was also awarded the Aarav Amar Bajpayee Memorial Prize for Graduate Student Societal Impact by the MIT Department of Mechanical Engineering, recognizing my research related to the health of the planet & global energy sustainability.
 
-<img src="/papers/figures/PHD_thesis_2.png" style="display:block; width:400px; margin:20px auto;">
+<img src="/papers/figures/PHD_thesis_2.png" style="display:block; width:800px; margin:20px auto;">
 
 In my PhD, I applied various tools, including distributed & decentralized optimization, game theory, market design & machine learning, to solve challenging planning & operational problems for the future power grid rich in renewables, battery storage & flexible demand (electric vehicles, heat pumps, data centers). I showed that coordinating flexible DERs can significantly lower network costs, losses & consumer electricity prices. I also applied our methods to improve efficiency, hosting capacity, power quality & grid resilience to cyber-physical attacks or outages. You can find my PhD thesis defense slides below:
 
-<div style="text-align: center; margin: 30px auto; max-width: 900px;">
+<div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="/assets/Vineet_PhD_thesis_defense.pdf" 
           width="800" 
           height="450" 
@@ -32,14 +32,14 @@ Beyond my thesis, I got the opportunity to work on side projects related to tran
 - **Numerical methods**: Developing accelerated & more accurate simulation methods for complex, nonlinear, and high-dimensional systems.
 - **Application areas**: Power & energy systems, transportation & mobility systems, batteries, industrial process control, smart cities, cyber-physical humain-in-the-loop system models, etc.
 
-# Other Projects
+# A few other selected projects
 
 **Learning Dynamical Models through Data Science**
 
 Here, we compared different data-driven approaches to learn and approximate models of dynamical systems. Specifically (i) PDE-FIND which is a method for partial different equation discovery using sparse regression, and (ii) Dynamic mode decomposition based on Koopman operator theory.
 Physics-informed ML vs DMD
 
-<div style="text-align: center; margin: 30px auto; max-width: 900px;">
+<div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="/assets/2.168_Final_Project.pdf" 
           width="800" 
           height="450" 
@@ -55,7 +55,7 @@ Here, we leveraged additional textual information using natural language process
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWnJyD45olj-bAPTXeEAJh8N8Xm7TEtD09yPYEQ6wIJIaQB8kjgQF_wpwCnf49jR8KKbzjqeIcpjqS/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<div style="text-align: center; margin: 30px auto; max-width: 900px;">
+<div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWnJyD45olj-bAPTXeEAJh8N8Xm7TEtD09yPYEQ6wIJIaQB8kjgQF_wpwCnf49jR8KKbzjqeIcpjqS/pubembed?start=false&loop=false&delayms=3000" 
           width="800" 
           height="450" 
@@ -64,12 +64,3 @@ Here, we leveraged additional textual information using natural language process
           style="border: 1px solid #ddd;">
   </iframe>
 </div>
-        
-
-**Blockchain to implement secure distributed optimization & transparent smart contracts for local electric markets**
-
-This was a collaboration with researchers at Universidad Politécnica de Madrid.
-
-<img src="/assets/blockchain.gif" 
-     alt="Description" 
-     style="display: block; margin: 20px auto; width: 600px;">
