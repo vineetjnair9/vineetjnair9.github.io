@@ -80,7 +80,7 @@ Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy
 *5th IFAC Workshop on Cyber-Physical Human Systems (CPHS)*, 2024  
 [Link](https://www.sciencedirect.com/science/article/pii/S2405896325001740){:target="_blank"} | [Paper PDF](/papers/CPHS_2024.pdf){:target="_blank"}
 
-<img src="/papers/figures/CCTA_2023.png" class="pub-fig" style="width: 220px;">
+<img src="/papers/figures/CCTA_2023.png" class="pub-fig" style="width: 250px;">
 
 **Local retail electricity markets and pricing for distribution grid services**  
 Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy  
@@ -92,7 +92,7 @@ Authors: **Vineet Jagadeesan Nair**, Lucas Pereira
 *NeurIPS 2022 Tackling Climate Change with Machine Learning Workshop*, 2022  
 [Link](https://www.climatechange.ai/papers/neurips2022/111){:target="_blank"} | [Paper PDF](/papers/NeurIPS_2022.pdf){:target="_blank"}
 
-<img src="/papers/figures/NAPS_2022.png" class="pub-fig" style="width: 220px;">
+<img src="/papers/figures/NAPS_2022.png" class="pub-fig" style="width: 250px;">
 
 **Impacts of dynamic line ratings on the ERCOT transmission system**  
 Authors: Thomas Lee, **Vineet Jagadeesan Nair**, Andy Sun  
@@ -111,7 +111,7 @@ John Wiley & Sons, Inc.
 
 ## Theses
 
-<img src="/papers/figures/PHD_thesis_1.png" class="pub-fig" style="width: 220px;">
+<img src="/papers/figures/PHD_thesis_1.png" class="pub-fig" style="width: 250px;">
 
 **Coordination of distributed energy resources for a reliable, resilient, and affordable decarbonized grid**  
 **Vineet Jagadeesan Nair**  
