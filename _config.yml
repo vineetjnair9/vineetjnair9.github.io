@@ -27,7 +27,7 @@ minima:
 # Header pages - these will appear in the navigation
 header_pages:
   - publications.md
-  - Research & Projects
+  - research_projects.md
   - cv.md
 
 # Exclude from processing
