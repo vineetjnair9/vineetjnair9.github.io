@@ -14,8 +14,8 @@ In my PhD, I applied various tools, including distributed & decentralized optimi
 
 <div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="/assets/Vineet_PhD_thesis_defense.pdf" 
-          width="800" 
-          height="450" 
+          width="600" 
+          height="388" 
           frameborder="0"
           allowfullscreen
           style="border: 1px solid #ddd;">
@@ -41,8 +41,8 @@ Physics-informed ML vs DMD
 
 <div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="/assets/2.168_Final_Project.pdf" 
-          width="800" 
-          height="450" 
+          width="600" 
+          height="388" 
           frameborder="0"
           allowfullscreen
           style="border: 1px solid #ddd;">
@@ -53,12 +53,10 @@ Physics-informed ML vs DMD
 
 Here, we leveraged additional textual information using natural language processing, in addition to quantitative data. We applied various statistical regression and machine learning methods to improve prediction accuracy.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWnJyD45olj-bAPTXeEAJh8N8Xm7TEtD09yPYEQ6wIJIaQB8kjgQF_wpwCnf49jR8KKbzjqeIcpjqS/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 <div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWnJyD45olj-bAPTXeEAJh8N8Xm7TEtD09yPYEQ6wIJIaQB8kjgQF_wpwCnf49jR8KKbzjqeIcpjqS/pubembed?start=false&loop=false&delayms=3000" 
-          width="800" 
-          height="450" 
+          width="600" 
+          height="388" 
           frameborder="0"
           allowfullscreen
           style="border: 1px solid #ddd;">
