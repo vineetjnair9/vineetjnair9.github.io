@@ -10,7 +10,7 @@ permalink: /publications/
   width: 200px;
   margin-left: 20px;
   margin-bottom: 15px;
-  border: 1px solid #ddd;
+  clear: right;
 }
 </style>
 
