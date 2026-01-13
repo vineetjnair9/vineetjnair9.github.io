@@ -18,8 +18,6 @@ permalink: /cv/
 
 <br>
 
---
-
 ## Quick Links
 
 - **Email**: jvineet9@mit.edu, vineetjnair9@gmail.com
