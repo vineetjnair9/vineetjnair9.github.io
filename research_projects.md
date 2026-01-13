@@ -28,15 +28,16 @@ Beyond my thesis, I got the opportunity to work on side projects related to tran
 
 - **Physics-informed machine learning (ML)**: Physics-informed neural networks, neural operators, operator networks, neural differential equations, hybrid physical models, graph neural networks
 - **Optimization**: Convex, non-convex, & mixed-integer problems, particularly for applications in power grids, energy systems, transportation networks, and more. Using ML to accelerate optimization.
-- **Generative AI for physical applciations**: Improving the accuracy, reliability, safety and stability of advanced model architectures (transformers, diffusion models, etc.) for critical engineering applications like grid operation, battery management, robotics, etc.
+- **Generative AI for physical applications**: Improving the accuracy, reliability, safety, and stability of advanced model architectures (transformers, diffusion models, etc.) for critical engineering applications like grid operation, battery management, robotics, etc.
 - **Numerical methods**: Developing accelerated & more accurate simulation methods for complex, nonlinear, and high-dimensional systems.
-- **Application areas**: Power & energy systems, transportation & mobility systems, batteries, industrial process control, smart cities, cyber-physical humain-in-the-loop system models, etc.
+- Advanced methods for **state estimation**, **system identification**, and **control**, with a focus on approaches using a combination of classical methods (with guarantees) and data-driven methods.
+- **Application areas**: Power & energy systems, transportation & mobility systems, batteries, industrial process control, smart cities, cyber-physical human-in-the-loop system models, etc.
 
 # A few other selected projects
 
 **Learning Dynamical Models through Data Science**
 
-Here, we compared different data-driven approaches to learn and approximate models of dynamical systems. Specifically (i) PDE-FIND which is a method for partial different equation discovery using sparse regression, and (ii) Dynamic mode decomposition based on Koopman operator theory.
+Here, we compared different data-driven approaches to learn and approximate models of dynamical systems. Specifically, (i) PDE-FIN,D which is a method for partial differential equation discovery using sparse regression, and (ii) Dynamic mode decomposition based on Koopman operator theory.
 Physics-informed ML vs DMD
 
 <div style="text-align: center; margin: 30px auto; max-width: 600px;">
