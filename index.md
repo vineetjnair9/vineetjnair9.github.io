@@ -6,7 +6,7 @@ title: Home
 <style>
 .pub-fig {
   float: right;
-  width: 400px;
+  width: 300px;
   margin-left: 20px;
   margin-bottom: 15px;
   clear: right;
