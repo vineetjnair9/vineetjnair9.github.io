@@ -37,8 +37,7 @@ Beyond my thesis, I got the opportunity to work on side projects related to tran
 
 **Learning Dynamical Models through Data Science**
 
-Here, we compared different data-driven approaches to learn and approximate models of dynamical systems. Specifically, (i) PDE-FIN,D which is a method for partial differential equation discovery using sparse regression, and (ii) Dynamic mode decomposition based on Koopman operator theory.
-Physics-informed ML vs DMD
+Here, we compared different data-driven approaches to learn and approximate models of dynamical systems. Specifically, (i) PDE-FIND, which is a method for partial differential equation discovery using sparse regression, and (ii) Dynamic mode decomposition (DMD) based on Koopman operator theory.
 
 <div style="text-align: center; margin: 30px auto; max-width: 600px;">
   <iframe src="/assets/2.168_Final_Project.pdf" 
