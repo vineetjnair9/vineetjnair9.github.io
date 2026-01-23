@@ -49,7 +49,7 @@ Here, we compared different data-driven approaches to learn and approximate mode
   </iframe>
 </div>
 
-**Increasing the Accuracy of Intra-day Stock Return Predictions Using Textual Information** [Code](https://github.com/vineetjnair9/NLP_stock_price_prediction){:target="_blank"}
+**Increasing the Accuracy of Intra-day Stock Return Predictions Using Textual Information** ([Code](https://github.com/vineetjnair9/NLP_stock_price_prediction){:target="_blank"})
 
 Here, we leveraged additional textual information using natural language processing, in addition to quantitative data. We applied various statistical regression and machine learning methods to improve prediction accuracy.
 
