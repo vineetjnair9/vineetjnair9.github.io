@@ -159,14 +159,12 @@ Authors: Sean Anderson, **Vineet J Nair**
 **BIS EPRI and AWS papers**
 
 **Energy Storage Frameworks in California**
-Authors: Sushant Barave, **Vineet Nair**, Anna Park, Daniel Shaffer, Marianne Sleiman
-*Case study for Amazon Web Services*
-[Paper](/papers/BIS - Energy Storage AWS report.pdf){:target="_blank"}
+Authors: Sushant Barave, **Vineet Nair**, Anna Park, Daniel Shaffer, Marianne Sleiman  
+*Case study for Amazon Web Services* | [Paper](/papers/BIS - Energy Storage AWS report.pdf){:target="_blank"}
 
 **Prospects for Hydrogen-based Energy Innovation in the Iron and Steel Industries**
-Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli
-*Case study for Electric Power Research Institute*
-[Paper](/papers/Hydrogen in the Steel Industry.pdf){:target="_blank"}
+Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli  
+*Case study for Electric Power Research Institute* | [Paper](/papers/Hydrogen in the Steel Industry.pdf){:target="_blank"}
 
 # Working Papers
 
