@@ -83,7 +83,7 @@ Authors: **Vineet Jagadeesan Nair**, Anuradha Annaswamy
 
 **Circuit-Aware Distributed Optimal Voltage Control for Distribution Grids**
 Authors: Luca M. Hartmann, **Vineet J Nair**, Anuradha Annaswamy, Florian Dorfler
-*MIT A+B Applied Energy Symposium*, 2024
+*MIT A+B Applied Energy Symposium*, 2024  
 [Slides](assets/MITAB_Inverters_DMPC_2024.pdf){:target="_blank"} | [Extended abstract](papers/MITAB 2024_Abstract_V3.pdf){:target="_blank"}
 
 **Local retail electricity markets and pricing for distribution grid services**  
@@ -132,7 +132,7 @@ Master's Thesis, Massachusetts Institute of Technology, 2021
 
 **Optimal Design & Energy Management of Islanded, Hybrid Microgrids For Remote, Isolated Off-Grid Communities with No External Power Exchange**  
 **Vineet Jagadeesan Nair**  
-Master's Thesis, University of Cambridge, 2019
+Master's Thesis, University of Cambridge, 2019  
 [Thesis PDF](/papers/MPhil_thesis.pdf){:target="_blank"} | [Slides](assets/Final_MPhil_Presentation_Vineet.pdf){:target="_blank"} | [Code](https://github.com/vineetjnair9/microgrid_optimization){:target="_blank"}
 
 # Preprints & Technical Reports
