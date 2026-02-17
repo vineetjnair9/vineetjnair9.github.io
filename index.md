@@ -52,5 +52,6 @@ Over the past several years, I've had the pleasure of collaborating with many wo
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=WLWSdJ0AAAAJ&hl=en){:target="_blank"}
 - **GitHub**: [vineetjnair9](https://github.com/vineetjnair9){:target="_blank"}
 - **ORCID**: [0000-0002-5719-5334](https://orcid.org/0000-0002-5719-5334){:target="_blank"}
+- **ResearchGate**: [Profile](https://www.researchgate.net/profile/Vineet-Jagadeesan-Nair/){:target="_blank"}
 
 For more information, see my [**publications**](publications.md){:target="_blank"} and my [**resume/CV**](cv.md){:target="_blank"}.
