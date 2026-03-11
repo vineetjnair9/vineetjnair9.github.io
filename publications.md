@@ -156,7 +156,7 @@ Authors: Sean Anderson, **Vineet J Nair**
 *arXiv preprint arXiv:1901.03017*, 2019  
 [Link](https://arxiv.org/abs/1901.03017){:target="_blank"} | [Paper PDF](/papers/EV_2019.pdf){:target="_blank"} | [Code](https://github.com/vineetjnair9/EV_charge_scheduling){:target="_blank"}
 
-**[BERC Innovative Solutions (BIS](https://berc.berkeley.edu/programs/berc-innovative-solutions/){:target="_blank"} case study papers**
+**[BERC Innovative Solutions (BIS)](https://berc.berkeley.edu/programs/berc-innovative-solutions/){:target="_blank"} case study papers**
 
 **Energy Storage Frameworks in California**
 Authors: Sushant Barave, **Vineet Nair**, Anna Park, Daniel Shaffer, Marianne Sleiman  
@@ -168,16 +168,16 @@ Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli
 
 # Submitted papers (under review)
 
-- _Vineet Nair, Morteza Vahid Ghavidel, & Anuradha Annaswamy_. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and electrified load growth.” (2026).
-- _Vineet Nair_. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics” (2026).
-- _Vineet Nair_. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Revise & resubmit to *Energy Conversion and Management* (2025).
+- **Vineet Nair**, Morteza Vahid Ghavidel, & Anuradha Annaswamy. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and electrified load growth.” (2026).
+- **Vineet Nair**. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics” (2026).
+- **Vineet Nair**. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Revise & resubmit to *Energy Conversion and Management* (2025).
 
 # Working papers (in progress)
 
-- _Layla Araiinejad*, Vineet Nair*_, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
-- _Vineet Nair, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy_, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things.
-- _Peer Brigger, Vineet Nair, & Anuradha Annaswamy_. “Optimization, valuation, and pricing of battery storage in renewables-rich distribution grids under uncertainty & different market paradigms.”
-- _Danielle Knutson, Vineet Nair, & Anuradha Annaswamy_. “Understanding technical & socioeconomic drivers behind the spatial distribution & heterogeneity of distributed energy resources in California."
-- _Luca Hartmann, Vineet Nair, & Anuradha Annaswamy_, “Circuit-aware distributed model predictive voltage control for distribution grids.”
-- _Vineet Nair_. “Techno-economic analysis of low-carbon data centers in the Middle East & North Africa.”
-- _Vineet Nair, Michael Hetherington, & Stephen Brown_. “Data-driven approaches to reduce the emissions impacts of global LNG shipping.”
+- Layla Araiinejad*, **Vineet Nair***, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
+- **Vineet Nair**, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things.
+- Peer Brigger, **Vineet Nair**, & Anuradha Annaswamy. “Optimization, valuation, and pricing of battery storage in renewables-rich distribution grids under uncertainty & different market paradigms.”
+- Danielle Knutson, **Vineet Nair**, & Anuradha Annaswamy. “Understanding technical & socioeconomic drivers behind the spatial distribution & heterogeneity of distributed energy resources in California."
+- Luca Hartmann, **Vineet Nair**, & Anuradha Annaswamy, “Circuit-aware distributed model predictive voltage control for distribution grids.”
+- **Vineet Nair**. “Techno-economic analysis of low-carbon data centers in the Middle East & North Africa.”
+- **Vineet Nair**, Michael Hetherington, & Stephen Brown. “Data-driven approaches to reduce the emissions impacts of global LNG shipping.”
