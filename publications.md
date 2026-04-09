@@ -168,9 +168,9 @@ Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli
 
 # Submitted papers (under review)
 
-- **Vineet Nair**, Morteza Vahid Ghavidel, & Anuradha Annaswamy. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and load growth.” (2026). [arXiv Preprint](http://arxiv.org/abs/2604.02170){:target="_blank"}
+- **Vineet Nair**, Morteza Vahid Ghavidel, & Anuradha Annaswamy. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and load growth.” (2026) | [arXiv Preprint](http://arxiv.org/abs/2604.02170){:target="_blank"}
 - **Vineet Nair**. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics” (2026).
-- **Vineet Nair**. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Revise & resubmit to *Energy Conversion and Management* (2025).
+- **Vineet Nair**. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Revise & resubmit to *Energy Conversion and Management* (2025) | [arXiv Preprint](https://arxiv.org/abs/2604.06371){:target="_blank"}
 
 # Working papers (in progress)
 
