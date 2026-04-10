@@ -172,7 +172,7 @@ Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli
 
 # Working papers (in progress)
 
-- Layla Araiinejad*, **Vineet Nair***, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
+- Layla Araiinejad*, **Vineet Nair**, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
 - Peer Brigger, **Vineet Nair**, & Anuradha Annaswamy. “Optimization, valuation, and pricing of battery storage in renewables-rich distribution grids under uncertainty & different market paradigms.”
 - Danielle Knutson, **Vineet Nair**, & Anuradha Annaswamy. “Understanding technical & socioeconomic drivers behind the spatial distribution & heterogeneity of distributed energy resources in California."
 - **Vineet Nair**, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things.
