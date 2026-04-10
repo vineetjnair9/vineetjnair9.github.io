@@ -156,11 +156,11 @@ Authors: Sean Anderson, **Vineet J Nair**
 *arXiv preprint arXiv:1901.03017*, 2019  
 [Link](https://arxiv.org/abs/1901.03017){:target="_blank"} | [Paper PDF](/papers/EV_2019.pdf){:target="_blank"} | [Code](https://github.com/vineetjnair9/EV_charge_scheduling){:target="_blank"}
 
-**Energy Storage Frameworks in California**
+**Energy Storage Frameworks in California**  
 Authors: Sushant Barave, **Vineet Nair**, Anna Park, Daniel Shaffer, Marianne Sleiman  
 *Case study for Amazon Web Services* | [Paper](https://www.authorea.com/users/1025295/articles/1385064-energy-storage-frameworks-in-california?commit=6cad93dd54b856b690cc53ecb02348d1577e23e0){:target="_blank"}
 
-**Prospects for Hydrogen-based Energy Innovation in the Iron and Steel Industries**
+**Prospects for Hydrogen-based Energy Innovation in the Iron and Steel Industries**  
 Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli  
 *Case study for Electric Power Research Institute* | [Paper](/papers/Hydrogen in the Steel Industry.pdf){:target="_blank"}
 
