@@ -167,15 +167,14 @@ Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli
 # Submitted papers (under review)
 
 - **Vineet Nair**, Morteza Vahid Ghavidel, & Anuradha Annaswamy. “Dynamic resource coordination can significantly increase power grid hosting capacity to accommodate more renewables, storage, and load growth.” (2026) ([arXiv Preprint](http://arxiv.org/abs/2604.02170){:target="_blank"})
-- **Vineet Nair**. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics” (2026).
 - **Vineet Nair**. “Multiobjective optimization-based design & dispatch of islanded, hybrid microgrids for remote, off-grid communities in sub-Saharan Africa.” Revise & resubmit to *Energy Conversion and Management* (2025) ([arXiv Preprint](https://arxiv.org/abs/2604.06371){:target="_blank"})
+- **Vineet Nair**. “Enhanced physics-informed neural networks and neural operators for transient simulations of high-order power grid dynamics” (2026).
 
 # Working papers (in progress)
 
-- Layla Araiinejad*, **Vineet Nair**, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
-- **Vineet Nair**, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things.
+- Layla Araiinejad*, **Vineet Nair***, “The potential for nuclear fusion to sustainably & reliably power AI data centers.”
 - Peer Brigger, **Vineet Nair**, & Anuradha Annaswamy. “Optimization, valuation, and pricing of battery storage in renewables-rich distribution grids under uncertainty & different market paradigms.”
 - Danielle Knutson, **Vineet Nair**, & Anuradha Annaswamy. “Understanding technical & socioeconomic drivers behind the spatial distribution & heterogeneity of distributed energy resources in California."
-- Luca Hartmann, **Vineet Nair**, & Anuradha Annaswamy, “Circuit-aware distributed model predictive voltage control for distribution grids.”
+- **Vineet Nair**, Jesús Rodríguez-Molina, Juan Garbajosa, & Anuradha Annaswamy, “Blockchain-enabled energy price formation in local electricity market via energy traceability with Smart Contracts.” In preparation for IEEE Internet of Things.
 - **Vineet Nair**. “Techno-economic analysis of low-carbon data centers in the Middle East & North Africa.”
-- **Vineet Nair**, Michael Hetherington, & Stephen Brown. “Data-driven approaches to reduce the emissions impacts of global LNG shipping.”
+- Luca Hartmann, **Vineet Nair**, & Anuradha Annaswamy, “Circuit-aware distributed model predictive voltage control for distribution grids.”
