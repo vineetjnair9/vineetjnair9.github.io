@@ -158,7 +158,7 @@ Authors: Sean Anderson, **Vineet J Nair**
 
 **Energy Storage Frameworks in California**
 Authors: Sushant Barave, **Vineet Nair**, Anna Park, Daniel Shaffer, Marianne Sleiman  
-*Case study for Amazon Web Services* | [Paper](https://www.authorea.com/users/1025295/articles/1385064-energy-storage-frameworks-in-california?commit=6cad93dd54b856b690cc53ecb02348d1577e23e0){:target="_blank"} } 
+*Case study for Amazon Web Services* | [Paper](https://www.authorea.com/users/1025295/articles/1385064-energy-storage-frameworks-in-california?commit=6cad93dd54b856b690cc53ecb02348d1577e23e0){:target="_blank"}
 
 **Prospects for Hydrogen-based Energy Innovation in the Iron and Steel Industries**
 Authors: Shreyas Patankar, Carrol Xia, **Vineet J Nair**, Mushri Alsahli  
